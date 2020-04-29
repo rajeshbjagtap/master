@@ -6,5 +6,5 @@
 	 * Time: 6:27 PM
 	 */
 
-	echo "Hello, Welcome to Github. Test.";
+	echo "Hello, Welcome to Github. Stash.";
 ?>
